@@ -1,6 +1,6 @@
 # Nasih — Credit-Risk Scoring Service
 
-A credit-risk scoring service for small businesses. Given a business's
+A credit-risk scoring service for businesses. Given a business's
 monthly cash flow and how long it has been trading, it returns a default
 probability and one of three decisions: `auto_approve`, `manual_review`,
 or `reject`.
